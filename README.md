@@ -5,6 +5,7 @@ This Repository consists of actual lesson plans used in my undergraduate course 
 ## Available Lesson Plans
 
 - [DSC234 • AI Literacy • Inside the Machine](2026-02-02-dsc234-lessonplan.md) — The Use, and Abuse, of Human Labor in the Development and Training of AI — Image Classification and "The Mechanical Turk"
+- [DSC234 • AI Literacy • Inside the Machine](2026-02-09-dsc234-lessonplan.md) - Humor Can Be So... Subjective
 
 ## LICENSE
 
