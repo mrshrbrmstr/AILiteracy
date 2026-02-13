@@ -1,7 +1,7 @@
 # DSC 234 Inside the Machine: AI Literacy Lesson Plan
 ## Feb 9 - 12, 2026
 
-**Topic:** What is a Semantic Network, and what is/was its role in developing what we now call "large language models" or generative AI and/or natural language processing.
+**Topic:** What is a Semantic Network? Using that and similar approaches, how have so-called Large Language Models evolved? Just how bad *is* the training data and what human endeavors have built the precursors to today's LLMs? Humor Can Be So Subjective...
 
 ## Materials Needed:
 - Checklist and Other Guidelines for "What to Include in your Project Plan/Proposal"
