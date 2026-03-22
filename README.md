@@ -7,6 +7,7 @@ This Repository consists of actual lesson plans used in my undergraduate course 
 - [DSC234 • AI Literacy • Inside the Machine](2026-02-02-dsc234-lessonplan.md) — The Use, and Abuse, of Human Labor in the Development and Training of AI — Image Classification and "The Mechanical Turk"
 - [DSC234 • AI Literacy • Inside the Machine](2026-02-09-dsc234-lessonplan.md) - Humor Can Be So... Subjective
 - [DSC234 • AI Literacy • Inside the Machine](weeks-6-and-7/DSC234_K-means_K-nearest-lesson-plan.md) - Getting Left out of the Training Data - K-Means clustering and K-nearest neighbor algorithms
+- [DSC234 • AI Literacy • Inside the Machine](2026-03-23-dsc234-lessonplan.md) - Affect Recognition Technology and Developing Good Research Habits - Evaluating AI Generated Content with Critical Analysis of Course Primary Textbook
 
 ## Available R or Python Code
 - [DSC234 • AI Literacy • Inside the Machine](weeks-6-and-7/kmeans_monsters.ipynb) - Getting Left out of the Training Data - K-Means clustering the "Monster" training dataset
